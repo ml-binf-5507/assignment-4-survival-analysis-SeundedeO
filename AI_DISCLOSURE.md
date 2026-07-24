@@ -24,14 +24,14 @@ Do NOT:
 
 ## 1. Did you use AI for this assignment?
 
-- [ ] Yes
+- [Y] Yes
 - [ ] No
 
 If **No**, you are done.
 
 ## 2. Which tool(s) did you use?
 
-- [ ] ChatGPT
+- [Y] ChatGPT
 - [ ] GitHub Copilot
 - [ ] Claude
 - [ ] Gemini
@@ -39,17 +39,17 @@ If **No**, you are done.
 
 ## 3. How did you use it?
 
-- [ ] Understanding concepts
-- [ ] Debugging
-- [ ] Code suggestions or completion
+- [Y] Understanding concepts
+- [Y] Debugging
+- [Y] Code suggestions or completion
 - [ ] Writing or revising code
-- [ ] Interpreting results
+- [Y] Interpreting results
 - [ ] Other: _______________
 
 ## 4. Briefly describe your AI use
 
 1–3 sentences is enough; bullet points encouraged!
-
+- Asked it to verify and debug alot of code, Also explain it and concise to save time. 
 
 
 ## Why This Matters
